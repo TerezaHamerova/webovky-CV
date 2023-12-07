@@ -29,10 +29,14 @@ header{
     height: 100vh;
 }
 
-.header_navigace{
-    color:blue
+header nav ul li{
+    list-style-type: none;
+    width:120px;
 }
 
+header nav ul li img{
+    width:80px;
+}
 
 .header_text{
     position:absolute;
