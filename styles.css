@@ -34,7 +34,7 @@ header nav {
 
 header nav ul li {
   list-style-type: none;
-  width: 100px;
+  width: 90px;
   float: left;
   position: relative;
   top: 35px;
@@ -42,7 +42,7 @@ header nav ul li {
 }
 
 header nav ul li img {
-  width: 7vh;
+  width: 6.5vh;
 }
 
 .header_text {
